@@ -5,6 +5,7 @@
 To run this project, follow these steps:
 
 1. Clone the repository:
+   https://github.com/Darkness4ever/autocomplete.git
 
 2. Navigate to the project directory:
    cd autocomplete-react-ts
